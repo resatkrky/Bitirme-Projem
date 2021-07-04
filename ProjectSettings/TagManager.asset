@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - soldier
+  - Cover
+  - hit
+  - hitHead
+  - hitLeg
+  - hitArm
+  - zombie
+  - hitHead2
+  - hitArm2
+  - hitLeg2
+  - dogma_noktasi
+  - Manager
+  - ground
+  - Fire
+  - hitHeadBoss
+  - hitHeadBoss2
+  - hitHeadBoss3
+  - hitLegBoss
+  - hitLegBoss2
+  - hitLegBoss3
+  - hitArmBoss
+  - hitArmBoss2
+  - hitArmBoss3
+  - hitHead3
+  - hitLeg3
+  - hitArm3
+  - hitBody
+  - hitBody2
+  - hitBody3
+  - hitBodyBoss
+  - hitBodyBoss2
+  - hitBodyBoss3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
